@@ -4,6 +4,8 @@ Profesor: Ariel Dorrey.
 
 Material: [Biblioteca ILZ](https://onedrive.live.com/?id=3CFD2EA5FD82A3BD%215519&cid=3CFD2EA5FD82A3BD&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcjJqZ3YybEx2MDhxZ3F0YXh0TjBMbUpRUmpBP2U9amJCMGNn)
 
+[Trabajo Manuscrito](https://drive.google.com/drive/folders/1xJXqYaKX1IpYds1MeKKLKpPZW4kjE-zg)
+
 1.  La politica es la actividad de gestionar, de forma grupal o de forma individual, las desiciones que se toman sobre como ordenar una sociedad, que normas deben tener y de como resolver los conflictos de intereses dentro de ella, velando por el bien común de los diferentes sectores.
 
 2. Politica es un termino que proviene de "La Polis" que significa ciudad, que en la antigua Grecia era donde se administraban los asuntos sociales y economicos. Si bien ya existian practicas politicas previo a esto, su estudio y practica se formalizó aqui con Platón y Aristoteles, con obras como La Republica y La Politica, respectivamente.
