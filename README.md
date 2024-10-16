@@ -1,4 +1,5 @@
 Trabajo equivalencia ciencias políticas.
+
 Profesor: Ariel Dorrey.
 
 Material: [Biblioteca ILZ](https://onedrive.live.com/?id=3CFD2EA5FD82A3BD%215519&cid=3CFD2EA5FD82A3BD&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcjJqZ3YybEx2MDhxZ3F0YXh0TjBMbUpRUmpBP2U9amJCMGNn)
