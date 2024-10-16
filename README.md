@@ -1,4 +1,3 @@
-# Cspoli
 Trabajo equivalencia ciencias políticas.
 Profesor: Ariel Dorrey
 Material: [Biblioteca ILZ](https://onedrive.live.com/?id=3CFD2EA5FD82A3BD%215519&cid=3CFD2EA5FD82A3BD&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcjJqZ3YybEx2MDhxZ3F0YXh0TjBMbUpRUmpBP2U9amJCMGNn)
@@ -55,7 +54,7 @@ Material: [Biblioteca ILZ](https://onedrive.live.com/?id=3CFD2EA5FD82A3BD%215519
 25 ¿COMO SE EXPLICAN LAS CRISIS DEL ESTADO DE BIENESTAR Y LA FORMACION DEL ESTADO NEOLIBERAL?
 
 26 ¿Cuáles FUERON LOS RASGOS Y LAS CONSECUENCIAS DE LOS GOLPES DE ESTADO EN LA ARGENTINA DURANTE EL SIGLO XX?
-    <\details>
+<\details>
 
 
 1.  La politica es la actividad de gestionar, de forma grupal o de forma individual, las desiciones que se toman sobre como ordenar una sociedad, que normas deben tener y de como resolver los conflictos de intereses dentro de ella, velando por el bien común de los diferentes sectores.
