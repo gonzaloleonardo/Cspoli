@@ -67,7 +67,6 @@ Trabajo equivalencia ciencias políticas.
 25. La crisis del estado de bienestar se explica por dos grandes motivos:
  - Lo **Económico**: el lado económico contaba de un alto coste fiscal o sea de un gasto social en Salud Educación deporte cultura subsidios a la producción, entre otros. O sea, el estado dejó de poder solventar estos gastos.
  - Lo **Político**: el motivo político contaba con el fortalecimiento relativo de los trabajadores y sus organizaciones sindicales, perdiendo así poder el estado frente a los distintos sectores sociales y condicionando sus políticas.
-
 El estado neoliberal surge de esta pérdida de legitimidad y las críticas sobre la ineficiencia de lo Estatal por debajo de lo privado.
 
 26. Los golpes de estado del siglo XX eran constituidos por sectores electoralmente minoritarios, con apoyo militar, contando con intereses distintos a los del estado, por ende a los de la ciudadanía que los eligió democráticamente. Las políticas económicas que tomaban eran de dependencia de los mercados extranjeros y de la importación de las bienes industriales. Esto tuvo como consecuencia la caída de la industria nacional generando pérdida de trabajos desocupación y la caída de los mercados internos.
