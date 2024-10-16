@@ -9,14 +9,14 @@ Material: [Biblioteca ILZ](https://onedrive.live.com/?id=3CFD2EA5FD82A3BD%215519
 2. Politica es un termino que proviene de "La Polis" que significa ciudad, que en la antigua Grecia era donde se administraban los asuntos sociales y economicos. Si bien ya existian practicas politicas previo a esto, su estudio y practica se formalizó aqui con Platón y Aristoteles, con obras como La Republica y La Politica, respectivamente.
 
 3. En la antiguedad el sistema de gobierno predominante era la monarquia, que concentraba el poder en un rey y tomaba las desiciones el mismo, a su vez siendo asesorado por consejeros sabios.
-    - **Monarquia**: el poder lo tenía una sola persona, el monarca o rey, que normalmente obtenia este titulo por herencia. 
-    - **Oligarquía**: el poder recaía en un pequeño grupo de individuos, normalmente de la elite o ricos. 
-    - **Tiranía**: es el regimen de una persona que toma el poder de forma ilegitima, usualmente a travez del uso de la fuerza.
-    - **Teocracia**: El gobierno era ejercido por lideres religiosos quienes representaban la voluntad de dios.
-    - **Imperio**: El poder recae en un emperador quien gobierna un extenso territorio de distintos pueblos, a menudo mantenido mediante la conquista.
-    - **Aristocracia**: El gobierno recaía en la clase privilegiada, la nombreza y se basaba en el linaje y la educación.
-    - **Democracia**: Aqui el poder recae al pueblo quienes toman las desiciones ellos mismos o eligiendo a representantes.
-    - **Republica**: El pueblo elige a sus representantes y estos mismos tienen un poder limitado por un marco legal o una constitución.
+- **Monarquia**: el poder lo tenía una sola persona, el monarca o rey, que normalmente obtenia este titulo por herencia. 
+- **Oligarquía**: el poder recaía en un pequeño grupo de individuos, normalmente de la elite o ricos. 
+- **Tiranía**: es el regimen de una persona que toma el poder de forma ilegitima, usualmente a travez del uso de la fuerza.
+- **Teocracia**: El gobierno era ejercido por lideres religiosos quienes representaban la voluntad de dios.
+- **Imperio**: El poder recae en un emperador quien gobierna un extenso territorio de distintos pueblos, a menudo mantenido mediante la conquista.
+- **Aristocracia**: El gobierno recaía en la clase privilegiada, la nombreza y se basaba en el linaje y la educación.
+- **Democracia**: Aqui el poder recae al pueblo quienes toman las desiciones ellos mismos o eligiendo a representantes.
+- **Republica**: El pueblo elige a sus representantes y estos mismos tienen un poder limitado por un marco legal o una constitución.
 
 
 4. Una asamblea era una experiencia de gobierno en la antigua Grecia que juntaba unos cuantos ciudadanos varones mayores de 18 quienes se juntaban a realizar la toma de desiciones acerca de los asuntos de la polis, siendo estas la base de la democracia ateniense, ya que les permitia a sus ciudadanos ejercer de forma directa el gobierno, no a traves de representantes.
